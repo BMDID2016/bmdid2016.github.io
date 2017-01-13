@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{ongenae2016semantic}
+Ongenae, F., Bonte, P., Schaballie, J., Vankeirsbilck, B., De~Turck, F.:
+  Semantic context consolidation and rule learning for optimized transport
+  assignments in hospitals (2016)
+
+\bibitem{DBLP:journals/nar/WhetzelNSANTM11}
+Whetzel, P.L., Noy, N.F., Shah, N.H., Alexander, P.R., Nyulas, C., Tudorache,
+  T., Musen, M.A.: Bioportal: enhanced functionality via new web services from
+  the national center for biomedical ontology to access and use ontologies in
+  software applications. Nucleic Acids Research  39(Web-Server-Issue),
+  541--545 (2011), \url{http://dx.doi.org/10.1093/nar/gkr469}
+
+\bibitem{citeulike:13980485}
+Wilkinson, M.D., Dumontier, M., Aalbersberg, I.J., Appleton, G., Axton, M.,
+  Baak, A., Blomberg, N., Boiten, J.W., da~Silva~Santos, L.B., Bourne, P.E.,
+  Bouwman, J., Brookes, A.J., Clark, T., Crosas, M.A., Dillo, I., Dumon, O.,
+  Edmunds, S., Evelo, C.T., Finkers, R., Gonzalez-Beltran, A., Gray, A.J.G.,
+  Groth, P., Goble, C., Grethe, J.S., Heringa, J., \^{a}t Hoen, P.A.C.,
+  Hooft, R., Kuhn, T., Kok, R., Kok, J., Lusher, S.J., Martone, M.E., Mons, A.,
+  Packer, A.L., Persson, B., Rocca-Serra, P., Roos, M., van Schaik, R.,
+  Sansone, S.A., Schultes, E., Sengstag, T., Slater, T., Strawn, G., Swertz,
+  M.A., Thompson, M., van~der Lei, J., van Mulligen, E., Velterop, J.,
+  Waagmeester, A., Wittenburg, P., Wolstencroft, K., Zhao, J., Mons, B.: {The
+  FAIR Guiding Principles for scientific data management and stewardship}.
+  Scientific Data  3,  160018+ (Mar 2016),
+  \url{http://dx.doi.org/10.1038/sdata.2016.18}
+
+\end{thebibliography}
